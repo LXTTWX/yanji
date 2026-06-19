@@ -3,10 +3,7 @@
 
 让自律有陪伴，让牵挂有回音 —— 覆盖年轻人健身自我管理与长辈健康远程守护的家庭健康工具
 
-https://img.shields.io/badge/Flutter-3.22-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20Windows-brightgreen.svg
-https://img.shields.io/badge/TRAE-参赛项目-orange.svg
+https://forum.trae.cn/t/topic/34160?u=u2693161884320099
 
 📖 项目简介
 
